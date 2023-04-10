@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+li.high {
+  color: rgb(236, 64, 64)
+}
+
+li.low {
+  color: rgb(255, 106, 0);
+}
